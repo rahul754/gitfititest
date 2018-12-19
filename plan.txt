@@ -5,3 +5,4 @@
 3. next start you work say that you are good 
 4. next lets start code with your portion
 5. if you are not feeling right then you can your work for 15 min
+6. alwage make log file for checking your logs
